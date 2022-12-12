@@ -8,6 +8,8 @@ import IMG5 from '../../assets/portfolio5.png';
 import IMG6 from '../../assets/portfolio6.png';
 import IMG7 from '../../assets/portfolio7.png';
 import IMG8 from '../../assets/portfolio8.png';
+import IMG9 from '../../assets/portfolio9.png';
+import IMG10 from '../../assets/portfolio10.png';
 
 const data = [
   {
@@ -27,41 +29,55 @@ const data = [
   {
     id: 3,
     image: IMG3,
+    title: 'Photography Portfolio Site',
+    github: 'https://github.com/sauravburjwal/photography-portfolio-site',
+    demo: 'https://saurav-photography-portfolio-site.netlify.app/',
+  },
+  {
+    id: 4,
+    image: IMG4,
     title: 'Type-n-Speak',
     github: 'https://github.com/sauravburjwal/text-to-speech',
     demo: 'https://saurav-text-to-speech.netlify.app/',
   },
   {
-    id: 4,
-    image: IMG4,
+    id: 5,
+    image: IMG5,
     title: 'Minesweeper',
     github: 'https://github.com/sauravburjwal/minesweeper',
     demo: 'https://saurav-minesweeper.netlify.app/',
   },
   {
-    id: 5,
-    image: IMG5,
+    id: 6,
+    image: IMG6,
     title: 'Guess Game',
     github: 'https://github.com/sauravburjwal/guess-game',
     demo: 'https://saurav-guess-game.netlify.app/',
   },
   {
-    id: 6,
-    image: IMG6,
+    id: 7,
+    image: IMG7,
     title: 'Dice Game',
     github: 'https://github.com/sauravburjwal/dice-game',
     demo: 'https://saurav-dice-game.netlify.app/',
   },
   {
-    id: 7,
-    image: IMG7,
+    id: 8,
+    image: IMG8,
+    title: 'Rock Paper Scissors Game ',
+    github: 'https://github.com/sauravburjwal/rock-paper-scissors-game',
+    demo: 'https://saurav-rock-paper-scissors-game.netlify.app/',
+  },
+  {
+    id: 9,
+    image: IMG9,
     title: 'Password Generator',
     github: 'https://github.com/sauravburjwal/password-generator',
     demo: 'https://saurav-password-generator.netlify.app/',
   },
   {
-    id: 8,
-    image: IMG8,
+    id: 10,
+    image: IMG10,
     title: 'Music Player',
     github: 'https://github.com/sauravburjwal/music-player',
     demo: 'https://saurav-music-player.netlify.app/',
